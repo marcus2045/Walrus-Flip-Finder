@@ -1,0 +1,6 @@
+pywebview
+# Optional: Windows notifications
+winotify
+# Optional: system tray icon
+pystray
+pillow
